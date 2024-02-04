@@ -1,0 +1,11 @@
+.lib/
+temp/
+*.temp
+pass.*
+clave.key
+*.exe
+__pycache__/
+mi_base_de_datos.db
+build/
+dist/
+env/
